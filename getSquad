@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Kepa Arrizabalaga",
+    "shirt_number": "1",
+    "position": "Goalkeeper",
+    "image": "kepa.png"
+  },
+  {
+    "id": 2,
+    "name": "Thiago Silva",
+    "shirt_number": "6",
+    "position": "Defender",
+    "image": "silva.png"
+  },
+  {
+    "id": 3,
+    "name": "Reece James",
+    "shirt_number": "24",
+    "position": "Defender",
+    "image": "james.png"
+  },
+  {
+    "id": 4,
+    "name": "Ben Chilwell",
+    "shirt_number": "21",
+    "position": "Defender",
+    "image": "chilwell.png"
+  },
+  {
+    "id": 5,
+    "name": "Enzo Fernandez",
+    "shirt_number": "5",
+    "position": "Midfielder",
+    "image": "enzo.png"
+  },
+  {
+    "id": 6,
+    "name": "Mason Mount",
+    "shirt_number": "19",
+    "position": "Midfielder",
+    "image": "mount.png"
+  },
+  {
+    "id": 7,
+    "name": "Joao Felix",
+    "shirt_number": "11",
+    "position": "Forward",
+    "image": "felix.png"
+  },
+  {
+    "id": 8,
+    "name": "Kai Havertz",
+    "shirt_number": "29",
+    "position": "Forward",
+    "image": "kai.png"
+  },
+  {
+    "id": 9,
+    "name": "Mykhailo Mudryk",
+    "shirt_number": "15",
+    "position": "Midfielder",
+    "image": "mudryk.png"
+  },
+  {
+    "id": 10,
+    "name": "Ngolo Kante",
+    "shirt_number": "7",
+    "position": "Midfielder",
+    "image": "kante.png"
+  }
+]
